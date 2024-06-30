@@ -14,3 +14,6 @@ SHAJON_10449u0_a449
 #approval_mr_noob
 SHAJONu:0:_:a:7:1:2:1:0:7:1:2
 SHAJONu:0:_:a:5:2:8:1:0:5:2:8
+SHAJONu:0:_:a:2:8:1:1:0:2:8:1
+SHAJONu:0:_:a:3:0:5:1:0:3:0:5
+SHAJONu:0:_:a:2:6:5:1:0:2:6:5
