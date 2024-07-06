@@ -1,3 +1,3 @@
 import os
 os.system("git pull")
-import sanjida
+import sanjida64
