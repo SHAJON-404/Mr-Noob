@@ -1,4 +1,4 @@
-SHAJONu:0:_:a:5:2:8:1:0:5:2:8 [SHAJON]
+SHAJONu:0:_:a:2:5:5:1:0:2:5:5 [SHAJON]
 SHAJONu:0:_:a:7:3:4:1:0:7:3:4 [SHARIF]
 SHAJONu:0:_:a:2:6:7:1:0:2:6:7 [alex]
 SHAJONu:0:_:a:2:8:8:1:0:2:8:8 [giyas]
