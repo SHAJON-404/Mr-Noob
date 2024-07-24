@@ -16,7 +16,7 @@ SHAJONu:0:_:a:3:4:8:1:0:3:4:8 [sa asif]
 SHAJONu:0:_:a:4:0:6:1:0:4:0:6 [tulon]
 SHAJONu:0:_:a:1:0:2:2:1:1:0:2:2 [safayed ahmed]
 SHAJONu:0:_:a:3:7:0:1:0:3:7:0 [fahim rahman]
-
+SHAJONu:0:_:a:1:9:7:1:0:1:9:7 [sayed]
 
 #OLD CLONE
 SHAJON_10208u0_a208 [FARABI]
